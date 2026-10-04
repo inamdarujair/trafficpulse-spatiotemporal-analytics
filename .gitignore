@@ -1,0 +1,58 @@
+# ==============================================================================
+# Git Ignore - TrafficPulse Big Data Analytics Platform
+# ==============================================================================
+
+# Environment & Sensitive Credentials (CRITICAL - NEVER COMMIT)
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+!.env.example
+
+# Dependencies
+node_modules/
+*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python virtual environments & bytecode caches
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Production Builds & Bundles
+dist/
+build/
+frontend/dist/
+frontend/build/
+
+# Runtime Uploads & Generated Temp Datasets
+data/uploads/
+data/invalid_corrupted_traffic.csv
+analytics/output/
+*.log
+logs/
+
+# IDE, Editor & OS generated files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+ehthumbs.db

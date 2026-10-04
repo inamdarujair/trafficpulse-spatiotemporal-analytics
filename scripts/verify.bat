@@ -1,0 +1,3 @@
+@echo off
+echo Running verification suite...
+call .\venv\Scripts\python scripts\verify.py

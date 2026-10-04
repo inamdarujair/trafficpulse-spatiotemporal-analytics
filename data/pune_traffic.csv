@@ -1,0 +1,235 @@
+Date,City,Area,Vehicle_Type,Vehicle_Count,Accidents,Traffic_Violations,Avg_Speed_kmph,Congestion_Level
+2025-01-01,Pune,Hinjewadi,Auto,4396,4,44,41,Low
+2025-01-06,Pune,Shivaji Nagar,Car,8686,5,63,24,Medium
+2025-01-15,Pune,Hinjewadi,Auto,13806,1,42,32,High
+2025-01-17,Pune,Viman Nagar,Truck,5645,0,277,47,Low
+2025-01-20,Pune,Kothrud,Bike,5543,5,273,38,Low
+2025-01-29,Pune,Viman Nagar,Bus,9895,2,180,60,Medium
+2025-01-30,Pune,Shivaji Nagar,Auto,11935,2,262,33,High
+2025-01-31,Pune,Hinjewadi,Bike,14675,5,210,21,High
+2025-02-09,Pune,Hinjewadi,Bike,8946,5,133,26,Medium
+2025-02-27,Pune,Hinjewadi,Bike,14978,5,124,51,High
+2025-03-02,Pune,Viman Nagar,Bike,7655,1,120,35,Medium
+2025-03-03,Pune,Shivaji Nagar,Bike,4358,0,279,47,Low
+2025-03-11,Pune,Hinjewadi,Bus,11456,8,247,50,High
+2025-03-15,Pune,Shivaji Nagar,Truck,5026,0,105,41,Low
+2025-03-18,Pune,Kothrud,Car,14149,6,219,33,High
+2025-03-24,Pune,Kothrud,Bike,8122,1,282,46,Medium
+2025-03-25,Pune,Viman Nagar,Car,14623,1,221,53,High
+2025-04-08,Pune,Wakad,Bike,11874,5,245,22,High
+2025-04-09,Pune,Wakad,Car,7468,2,67,40,Medium
+2025-04-12,Pune,Shivaji Nagar,Car,7146,5,245,60,Medium
+2025-04-13,Pune,Shivaji Nagar,Truck,5769,1,40,48,Low
+2025-04-14,Pune,Kothrud,Bike,6044,6,52,35,Low
+2025-04-18,Pune,Wakad,Bike,7139,2,128,27,Medium
+2025-04-19,Pune,Viman Nagar,Bike,14069,7,217,51,High
+2025-04-23,Pune,Wakad,Bus,7321,0,46,22,Medium
+2025-05-01,Pune,Hinjewadi,Truck,4517,3,256,58,Low
+2025-05-05,Pune,Kothrud,Bike,7167,2,208,57,Medium
+2025-05-15,Pune,Hinjewadi,Truck,12382,0,171,58,High
+2025-05-20,Pune,Shivaji Nagar,Bus,11341,8,169,39,High
+2025-05-30,Pune,Wakad,Bus,5528,4,258,33,Low
+2025-06-01,Pune,Kothrud,Car,6419,8,92,59,Low
+2025-06-02,Pune,Wakad,Auto,13221,0,94,31,High
+2025-06-06,Pune,Viman Nagar,Car,13940,6,239,25,High
+2025-06-08,Pune,Shivaji Nagar,Bike,8480,3,145,39,Medium
+2025-06-10,Pune,Shivaji Nagar,Truck,14415,6,286,45,High
+2025-06-12,Pune,Viman Nagar,Car,9973,1,166,20,Medium
+2025-06-18,Pune,Viman Nagar,Bike,11701,5,221,31,High
+2025-07-19,Pune,Shivaji Nagar,Bike,6368,5,74,45,Low
+2025-07-20,Pune,Hinjewadi,Bus,8759,7,130,25,Medium
+2025-07-25,Pune,Kothrud,Truck,12089,2,76,23,High
+2025-07-31,Pune,Shivaji Nagar,Auto,5176,1,201,44,Low
+2025-08-05,Pune,Wakad,Car,10121,8,146,47,Medium
+2025-08-06,Pune,Shivaji Nagar,Bike,14665,3,173,58,High
+2025-08-07,Pune,Wakad,Bike,14348,7,115,24,High
+2025-08-08,Pune,Wakad,Car,4644,5,50,45,Low
+2025-08-20,Pune,Viman Nagar,Bike,13303,6,173,51,High
+2025-08-22,Pune,Shivaji Nagar,Truck,11773,0,88,49,High
+2025-08-28,Pune,Kothrud,Bike,5274,5,216,35,Low
+2025-08-30,Pune,Shivaji Nagar,Car,9458,0,223,33,Medium
+2025-09-09,Pune,Kothrud,Car,10807,8,134,40,Medium
+2025-09-17,Pune,Viman Nagar,Truck,7860,0,124,51,Medium
+2025-09-21,Pune,Kothrud,Bike,11198,2,246,30,High
+2025-09-28,Pune,Shivaji Nagar,Bike,9203,6,140,28,Medium
+2025-10-03,Pune,Kothrud,Truck,6665,8,153,22,Low
+2025-10-10,Pune,Viman Nagar,Bus,5926,7,76,39,Low
+2025-10-11,Pune,Hinjewadi,Truck,11895,6,257,59,High
+2025-10-18,Pune,Shivaji Nagar,Truck,9505,7,268,21,Medium
+2025-10-19,Pune,Shivaji Nagar,Auto,10256,4,183,44,Medium
+2025-10-21,Pune,Viman Nagar,Bus,14295,3,289,31,High
+2025-10-28,Pune,Viman Nagar,Bike,13985,5,230,22,High
+2025-11-01,Pune,Wakad,Car,6158,2,190,60,Low
+2025-11-07,Pune,Viman Nagar,Bike,12674,1,131,24,High
+2025-11-09,Pune,Viman Nagar,Auto,13451,4,269,44,High
+2025-11-15,Pune,Hinjewadi,Bus,9740,0,284,50,Medium
+2025-11-18,Pune,Shivaji Nagar,Bus,5030,4,237,37,Low
+2025-11-20,Pune,Kothrud,Bus,9048,1,221,52,Medium
+2025-11-25,Pune,Viman Nagar,Bike,14294,7,250,47,High
+2025-12-02,Pune,Wakad,Auto,7441,0,168,47,Medium
+2025-12-06,Pune,Shivaji Nagar,Auto,7964,3,224,56,Medium
+2025-12-10,Pune,Hinjewadi,Bike,6288,6,268,47,Low
+2025-12-12,Pune,Shivaji Nagar,Bus,5082,7,55,38,Low
+2025-12-14,Pune,Hinjewadi,Auto,10837,0,92,32,Medium
+2025-12-21,Pune,Viman Nagar,Truck,6645,2,127,47,Low
+2025-12-22,Pune,Shivaji Nagar,Truck,10979,4,246,37,Medium
+2025-12-31,Pune,Shivaji Nagar,Bus,5983,5,150,55,Low
+2025-01-04,Pune,Wakad,Car,6489,6,43,57,Low
+2025-01-10,Pune,Kothrud,Bike,11777,7,209,60,High
+2025-01-13,Pune,Wakad,Bike,5677,4,61,51,Low
+2025-01-14,Pune,Hinjewadi,Bike,5438,5,242,55,Low
+2025-01-27,Pune,Viman Nagar,Bus,10188,3,294,37,Medium
+2025-02-16,Pune,Hinjewadi,Truck,6367,7,297,45,Low
+2025-02-19,Pune,Hinjewadi,Bike,9995,2,197,50,Medium
+2025-02-20,Pune,Kothrud,Truck,13843,7,84,57,High
+2025-02-22,Pune,Viman Nagar,Bike,10932,8,266,40,Medium
+2025-03-01,Pune,Viman Nagar,Truck,8121,3,243,54,Medium
+2025-03-06,Pune,Hinjewadi,Car,5972,8,231,26,Low
+2025-03-08,Pune,Wakad,Truck,4181,2,63,52,Low
+2025-03-16,Pune,Hinjewadi,Truck,11709,7,63,53,High
+2025-03-18,Pune,Kothrud,Auto,14680,1,79,50,High
+2025-03-25,Pune,Viman Nagar,Car,11455,4,232,55,High
+2025-03-31,Pune,Hinjewadi,Bike,4842,6,55,58,Low
+2025-04-02,Pune,Wakad,Bike,11402,5,173,30,High
+2025-04-10,Pune,Wakad,Bus,7176,8,222,32,Medium
+2025-04-15,Pune,Viman Nagar,Truck,8529,8,172,20,Medium
+2025-04-20,Pune,Hinjewadi,Car,14362,4,118,42,High
+2025-04-24,Pune,Kothrud,Bike,11427,5,202,55,High
+2025-04-28,Pune,Hinjewadi,Bike,4654,4,273,55,Low
+2025-04-29,Pune,Kothrud,Bike,7862,1,42,54,Medium
+2025-05-02,Pune,Wakad,Auto,7369,8,69,29,Medium
+2025-05-05,Pune,Wakad,Bike,4819,8,198,41,Low
+2025-05-06,Pune,Kothrud,Bike,14459,5,183,31,High
+2025-05-11,Pune,Kothrud,Bike,9206,1,221,55,Medium
+2025-05-29,Pune,Shivaji Nagar,Car,4925,2,265,42,Low
+2025-06-06,Pune,Shivaji Nagar,Car,12338,1,242,41,High
+2025-06-07,Pune,Hinjewadi,Bus,12158,4,102,50,High
+2025-06-14,Pune,Kothrud,Bus,8568,6,296,34,Medium
+2025-06-20,Pune,Hinjewadi,Car,14964,2,64,55,High
+2025-06-22,Pune,Kothrud,Truck,13607,1,292,53,High
+2025-06-28,Pune,Kothrud,Truck,12864,6,252,21,High
+2025-06-29,Pune,Wakad,Bike,13307,0,133,48,High
+2025-07-02,Pune,Kothrud,Truck,13910,7,230,23,High
+2025-07-03,Pune,Wakad,Auto,14272,8,67,53,High
+2025-07-10,Pune,Wakad,Auto,8460,1,160,41,Medium
+2025-07-11,Pune,Viman Nagar,Bike,13744,6,268,43,High
+2025-07-12,Pune,Wakad,Bus,8917,4,107,48,Medium
+2025-07-15,Pune,Kothrud,Bus,8494,0,161,44,Medium
+2025-07-19,Pune,Kothrud,Bus,11543,3,296,33,High
+2025-07-29,Pune,Hinjewadi,Bike,4300,1,274,33,Low
+2025-08-05,Pune,Kothrud,Bus,13241,8,114,47,High
+2025-08-06,Pune,Wakad,Car,4533,1,47,54,Low
+2025-08-11,Pune,Shivaji Nagar,Bike,12937,8,56,50,High
+2025-08-13,Pune,Kothrud,Car,11619,2,188,23,High
+2025-08-16,Pune,Wakad,Auto,12660,4,257,42,High
+2025-08-18,Pune,Hinjewadi,Truck,6242,2,69,27,Low
+2025-08-21,Pune,Shivaji Nagar,Car,6404,4,44,50,Low
+2025-08-28,Pune,Shivaji Nagar,Car,4596,2,267,48,Low
+2025-09-22,Pune,Shivaji Nagar,Bike,6846,7,95,51,Low
+2025-09-28,Pune,Wakad,Auto,11424,4,85,60,High
+2025-09-29,Pune,Hinjewadi,Bike,8509,4,184,29,Medium
+2025-10-09,Pune,Kothrud,Auto,6019,8,156,28,Low
+2025-10-13,Pune,Hinjewadi,Truck,13816,4,261,58,High
+2025-10-31,Pune,Kothrud,Bus,6568,7,41,56,Low
+2025-11-09,Pune,Wakad,Auto,4205,3,222,57,Low
+2025-11-11,Pune,Shivaji Nagar,Bike,9099,3,151,25,Medium
+2025-11-12,Pune,Shivaji Nagar,Truck,11886,1,91,41,High
+2025-11-18,Pune,Shivaji Nagar,Bike,11470,4,287,51,High
+2025-11-19,Pune,Hinjewadi,Auto,5466,1,67,36,Low
+2025-12-12,Pune,Wakad,Car,10024,3,91,41,Medium
+2025-12-24,Pune,Hinjewadi,Bus,14299,0,231,46,High
+2025-12-29,Pune,Shivaji Nagar,Bus,13428,2,205,27,High
+2025-01-08,Pune,Hinjewadi,Car,8325,4,254,33,Medium
+2025-01-11,Pune,Hinjewadi,Truck,14333,4,116,25,High
+2025-01-14,Pune,Shivaji Nagar,Bus,9191,6,89,26,Medium
+2025-01-18,Pune,Shivaji Nagar,Car,12315,4,64,33,High
+2025-01-24,Pune,Wakad,Car,9807,5,209,21,Medium
+2025-01-26,Pune,Kothrud,Auto,11092,6,78,31,High
+2025-02-02,Pune,Viman Nagar,Bus,11337,2,148,49,High
+2025-02-17,Pune,Hinjewadi,Auto,9909,4,180,52,Medium
+2025-02-18,Pune,Wakad,Bus,6017,5,199,37,Low
+2025-02-24,Pune,Shivaji Nagar,Bus,5806,7,120,40,Low
+2025-03-02,Pune,Shivaji Nagar,Car,13677,2,67,31,High
+2025-03-05,Pune,Shivaji Nagar,Bus,7864,2,64,40,Medium
+2025-03-13,Pune,Wakad,Car,12113,2,104,33,High
+2025-03-15,Pune,Wakad,Bike,7352,2,269,44,Medium
+2025-03-16,Pune,Hinjewadi,Bus,10491,2,75,28,Medium
+2025-03-27,Pune,Hinjewadi,Auto,9890,3,57,35,Medium
+2025-03-28,Pune,Kothrud,Bus,5098,6,253,53,Low
+2025-04-03,Pune,Wakad,Auto,10085,1,114,60,Medium
+2025-04-06,Pune,Wakad,Auto,5357,6,274,26,Low
+2025-04-09,Pune,Wakad,Bus,4399,6,155,52,Low
+2025-04-17,Pune,Kothrud,Bus,13533,5,96,37,High
+2025-04-18,Pune,Shivaji Nagar,Bus,14204,6,225,26,High
+2025-04-21,Pune,Shivaji Nagar,Bus,4713,1,130,21,Low
+2025-04-25,Pune,Wakad,Truck,4828,4,237,34,Low
+2025-05-01,Pune,Wakad,Truck,14979,1,134,58,High
+2025-05-02,Pune,Viman Nagar,Auto,8888,2,245,57,Medium
+2025-05-10,Pune,Viman Nagar,Bus,10114,4,55,38,Medium
+2025-05-28,Pune,Wakad,Auto,12145,3,79,47,High
+2025-05-30,Pune,Kothrud,Truck,11684,6,263,42,High
+2025-06-05,Pune,Shivaji Nagar,Truck,11491,1,54,49,High
+2025-06-07,Pune,Kothrud,Bus,14432,1,81,27,High
+2025-06-12,Pune,Kothrud,Auto,9318,4,252,25,Medium
+2025-06-13,Pune,Shivaji Nagar,Truck,13781,5,45,50,High
+2025-06-16,Pune,Shivaji Nagar,Bus,11691,1,296,46,High
+2025-06-19,Pune,Hinjewadi,Auto,4123,3,152,60,Low
+2025-07-05,Pune,Viman Nagar,Car,6736,4,169,58,Low
+2025-07-06,Pune,Shivaji Nagar,Bike,10058,8,239,25,Medium
+2025-07-07,Pune,Wakad,Car,5604,3,109,52,Low
+2025-07-12,Pune,Hinjewadi,Auto,12299,0,163,49,High
+2025-07-14,Pune,Shivaji Nagar,Truck,12602,1,179,30,High
+2025-07-30,Pune,Wakad,Truck,7424,4,232,33,Medium
+2025-08-01,Pune,Shivaji Nagar,Auto,4636,8,83,23,Low
+2025-08-04,Pune,Kothrud,Bike,14104,8,115,50,High
+2025-08-08,Pune,Viman Nagar,Auto,11851,0,51,34,High
+2025-08-14,Pune,Viman Nagar,Bus,10942,8,158,56,Medium
+2025-09-05,Pune,Wakad,Bike,14115,6,94,26,High
+2025-09-11,Pune,Shivaji Nagar,Car,11222,8,151,23,High
+2025-09-20,Pune,Wakad,Bike,4384,3,160,48,Low
+2025-10-02,Pune,Shivaji Nagar,Truck,13761,3,79,46,High
+2025-10-08,Pune,Kothrud,Bus,9262,0,73,36,Medium
+2025-10-12,Pune,Viman Nagar,Auto,5033,3,62,26,Low
+2025-10-13,Pune,Kothrud,Car,14486,6,165,20,High
+2025-10-16,Pune,Viman Nagar,Truck,10163,8,64,58,Medium
+2025-10-20,Pune,Wakad,Bus,11867,6,132,22,High
+2025-10-23,Pune,Viman Nagar,Auto,12818,3,139,49,High
+2025-10-31,Pune,Shivaji Nagar,Bike,6229,8,61,35,Low
+2025-11-06,Pune,Hinjewadi,Auto,10449,3,214,24,Medium
+2025-11-08,Pune,Hinjewadi,Bike,5094,4,265,22,Low
+2025-11-18,Pune,Hinjewadi,Car,7469,6,200,35,Medium
+2025-11-21,Pune,Hinjewadi,Bus,8340,0,113,31,Medium
+2025-11-26,Pune,Kothrud,Auto,13558,2,90,42,High
+2025-11-28,Pune,Hinjewadi,Car,4156,5,175,46,Low
+2025-11-30,Pune,Shivaji Nagar,Bus,11659,8,150,51,High
+2025-12-04,Pune,Shivaji Nagar,Bike,9240,4,243,39,Medium
+2025-12-05,Pune,Wakad,Auto,13125,7,260,23,High
+2025-12-06,Pune,Hinjewadi,Bike,14993,0,89,52,High
+2025-12-09,Pune,Wakad,Bus,13846,8,88,26,High
+2025-12-11,Pune,Wakad,Bus,7265,3,68,42,Medium
+2025-12-17,Pune,Shivaji Nagar,Auto,10349,0,175,26,Medium
+2025-12-18,Pune,Hinjewadi,Truck,13572,6,243,40,High
+2025-12-24,Pune,Hinjewadi,Car,4184,6,211,49,Low
+2025-01-02,Pune,Viman Nagar,Car,13555,2,211,43,High
+2025-01-04,Pune,Wakad,Car,6355,3,108,49,Low
+2025-01-06,Pune,Wakad,Car,5906,4,110,58,Low
+2025-01-11,Pune,Viman Nagar,Bike,7471,3,211,29,Medium
+2025-01-12,Pune,Shivaji Nagar,Bus,5855,3,180,54,Low
+2025-01-13,Pune,Wakad,Bike,8114,2,136,40,Medium
+2025-01-17,Pune,Hinjewadi,Truck,10420,0,152,21,Medium
+2025-01-22,Pune,Viman Nagar,Auto,6801,1,84,46,Low
+2025-01-23,Pune,Shivaji Nagar,Truck,14394,0,228,40,High
+2025-02-02,Pune,Hinjewadi,Bike,11363,4,238,27,High
+2025-02-04,Pune,Wakad,Car,14130,1,271,30,High
+2025-02-09,Pune,Viman Nagar,Auto,12004,0,97,21,High
+2025-02-11,Pune,Hinjewadi,Auto,11137,7,236,33,High
+2025-02-21,Pune,Wakad,Car,6883,4,235,45,Low
+2025-02-23,Pune,Shivaji Nagar,Auto,9074,1,233,27,Medium
+2025-02-24,Pune,Shivaji Nagar,Bus,14721,4,102,56,High
+2025-02-28,Pune,Viman Nagar,Truck,7692,7,205,59,Medium
+2025-03-01,Pune,Wakad,Bike,13224,2,138,27,High
+2025-03-03,Pune,Viman Nagar,Truck,5655,0,134,42,Low
+2025-03-16,Pune,Viman Nagar,Bike,8331,5,231,49,Medium
+2025-03-21,Pune,Kothrud,Truck,13225,3,262,37,High
+2025-03-23,Pune,Hinjewadi,Bike,9010,0,189,38,Medium
+2025-04-13,Pune,Hinjewadi,Car,8221,3,64,48,Medium

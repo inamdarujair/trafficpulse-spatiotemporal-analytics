@@ -1,0 +1,235 @@
+Date,City,Area,Vehicle_Type,Vehicle_Count,Accidents,Traffic_Violations,Avg_Speed_kmph,Congestion_Level
+2025-01-03,Mumbai,Lower Parel,Car,12940,3,98,39,High
+2025-01-13,Mumbai,Dadar,Truck,6225,3,46,47,Low
+2025-01-18,Mumbai,Bandra,Auto,8203,2,43,48,Medium
+2025-01-27,Mumbai,Lower Parel,Bus,6753,0,78,35,Low
+2025-02-06,Mumbai,Andheri,Car,5883,6,54,29,Low
+2025-02-11,Mumbai,Malad,Bike,13839,7,168,48,High
+2025-02-16,Mumbai,Andheri,Car,11189,8,282,60,High
+2025-02-20,Mumbai,Malad,Bike,11597,0,43,26,High
+2025-02-26,Mumbai,Malad,Bike,9908,6,286,25,Medium
+2025-02-28,Mumbai,Dadar,Bus,7904,6,156,25,Medium
+2025-03-09,Mumbai,Malad,Bus,7283,7,244,54,Medium
+2025-03-20,Mumbai,Andheri,Auto,6875,5,233,60,Low
+2025-03-22,Mumbai,Bandra,Truck,8618,0,252,46,Medium
+2025-04-05,Mumbai,Andheri,Truck,9125,1,197,40,Medium
+2025-04-22,Mumbai,Malad,Car,13825,7,101,39,High
+2025-05-11,Mumbai,Lower Parel,Truck,5711,3,134,53,Low
+2025-05-16,Mumbai,Andheri,Bus,10709,3,77,52,Medium
+2025-05-17,Mumbai,Dadar,Auto,4596,7,60,44,Low
+2025-05-25,Mumbai,Andheri,Truck,14672,0,235,42,High
+2025-05-28,Mumbai,Dadar,Auto,9719,8,152,40,Medium
+2025-06-05,Mumbai,Bandra,Car,5848,5,217,30,Low
+2025-06-09,Mumbai,Bandra,Truck,4669,0,293,37,Low
+2025-06-13,Mumbai,Andheri,Truck,11207,7,260,51,High
+2025-06-17,Mumbai,Dadar,Auto,7822,7,122,55,Medium
+2025-06-25,Mumbai,Malad,Bike,6232,4,56,43,Low
+2025-06-27,Mumbai,Bandra,Car,6760,0,194,43,Low
+2025-07-01,Mumbai,Andheri,Auto,12998,1,202,44,High
+2025-07-02,Mumbai,Andheri,Car,12819,4,226,51,High
+2025-07-07,Mumbai,Bandra,Truck,11945,1,165,37,High
+2025-07-14,Mumbai,Andheri,Bike,13616,3,55,29,High
+2025-07-17,Mumbai,Lower Parel,Bus,10313,4,54,35,Medium
+2025-07-30,Mumbai,Malad,Bike,5865,4,224,53,Low
+2025-08-01,Mumbai,Malad,Bus,5449,2,288,59,Low
+2025-08-02,Mumbai,Bandra,Car,12109,1,92,32,High
+2025-08-11,Mumbai,Bandra,Bus,10627,3,267,27,Medium
+2025-08-13,Mumbai,Lower Parel,Bus,13268,0,278,51,High
+2025-08-18,Mumbai,Bandra,Truck,4188,8,132,27,Low
+2025-08-24,Mumbai,Andheri,Car,4638,1,161,24,Low
+2025-08-29,Mumbai,Andheri,Auto,5032,0,226,45,Low
+2025-09-02,Mumbai,Bandra,Bus,6931,4,217,49,Low
+2025-09-08,Mumbai,Andheri,Bus,6931,8,68,27,Low
+2025-09-14,Mumbai,Malad,Car,5870,4,250,31,Low
+2025-09-23,Mumbai,Andheri,Auto,10844,6,262,27,Medium
+2025-09-27,Mumbai,Bandra,Bus,5278,4,45,30,Low
+2025-10-02,Mumbai,Bandra,Bike,13499,4,129,51,High
+2025-10-05,Mumbai,Malad,Auto,6183,3,274,43,Low
+2025-10-06,Mumbai,Lower Parel,Bike,10752,6,97,58,Medium
+2025-10-12,Mumbai,Malad,Car,11849,8,220,52,High
+2025-10-14,Mumbai,Andheri,Auto,7837,6,198,24,Medium
+2025-10-16,Mumbai,Lower Parel,Car,11973,4,142,24,High
+2025-10-24,Mumbai,Andheri,Truck,6191,0,166,23,Low
+2025-10-27,Mumbai,Malad,Bus,7030,7,299,20,Medium
+2025-10-29,Mumbai,Malad,Auto,10735,0,260,22,Medium
+2025-10-31,Mumbai,Dadar,Auto,5468,4,193,38,Low
+2025-11-08,Mumbai,Lower Parel,Bike,4549,0,254,42,Low
+2025-11-11,Mumbai,Lower Parel,Bus,7093,7,199,39,Medium
+2025-11-12,Mumbai,Bandra,Car,13130,6,196,36,High
+2025-11-16,Mumbai,Bandra,Auto,8996,5,123,31,Medium
+2025-11-17,Mumbai,Malad,Bike,5693,8,206,48,Low
+2025-11-23,Mumbai,Bandra,Bus,7643,7,98,57,Medium
+2025-11-27,Mumbai,Dadar,Auto,11003,4,273,39,High
+2025-11-28,Mumbai,Malad,Auto,14278,6,128,44,High
+2025-12-03,Mumbai,Andheri,Bus,10529,7,256,29,Medium
+2025-12-08,Mumbai,Malad,Bike,4469,0,193,45,Low
+2025-12-17,Mumbai,Dadar,Car,7311,6,70,47,Medium
+2025-12-25,Mumbai,Dadar,Truck,10302,3,223,20,Medium
+2025-01-02,Mumbai,Bandra,Truck,6921,7,113,22,Low
+2025-01-06,Mumbai,Bandra,Bus,12458,1,53,50,High
+2025-01-09,Mumbai,Andheri,Car,10690,5,276,44,Medium
+2025-01-19,Mumbai,Dadar,Car,7438,4,113,60,Medium
+2025-01-24,Mumbai,Andheri,Truck,5281,2,104,29,Low
+2025-01-29,Mumbai,Dadar,Truck,10096,2,275,44,Medium
+2025-02-02,Mumbai,Malad,Bus,14925,6,77,60,High
+2025-02-04,Mumbai,Dadar,Bus,14784,3,163,48,High
+2025-02-09,Mumbai,Malad,Auto,14892,4,181,49,High
+2025-02-11,Mumbai,Andheri,Car,7910,3,88,52,Medium
+2025-02-13,Mumbai,Dadar,Truck,10301,4,218,34,Medium
+2025-02-17,Mumbai,Andheri,Bike,10799,6,296,27,Medium
+2025-02-25,Mumbai,Dadar,Auto,10748,4,156,52,Medium
+2025-02-28,Mumbai,Lower Parel,Bike,11931,2,43,52,High
+2025-03-02,Mumbai,Andheri,Car,4704,4,51,20,Low
+2025-03-09,Mumbai,Dadar,Truck,5124,6,273,33,Low
+2025-03-11,Mumbai,Malad,Truck,13972,6,140,47,High
+2025-03-12,Mumbai,Andheri,Bus,14900,3,123,49,High
+2025-03-20,Mumbai,Andheri,Car,10703,5,267,46,Medium
+2025-03-22,Mumbai,Malad,Truck,4639,0,82,56,Low
+2025-03-24,Mumbai,Bandra,Auto,14397,3,217,29,High
+2025-04-01,Mumbai,Lower Parel,Auto,12236,8,211,47,High
+2025-04-04,Mumbai,Bandra,Car,6779,1,140,47,Low
+2025-04-11,Mumbai,Bandra,Car,5713,6,214,58,Low
+2025-04-14,Mumbai,Lower Parel,Bike,8894,3,220,39,Medium
+2025-04-18,Mumbai,Lower Parel,Car,8819,7,63,58,Medium
+2025-04-19,Mumbai,Dadar,Truck,5317,7,295,46,Low
+2025-04-23,Mumbai,Lower Parel,Bus,11655,6,73,31,High
+2025-04-30,Mumbai,Bandra,Truck,7032,2,129,41,Medium
+2025-05-14,Mumbai,Lower Parel,Auto,6250,7,219,59,Low
+2025-05-15,Mumbai,Andheri,Auto,7175,0,239,41,Medium
+2025-05-21,Mumbai,Bandra,Truck,9069,5,91,45,Medium
+2025-05-22,Mumbai,Andheri,Car,11603,7,251,50,High
+2025-05-30,Mumbai,Malad,Bike,13039,3,44,60,High
+2025-06-04,Mumbai,Bandra,Car,10920,2,198,43,Medium
+2025-06-08,Mumbai,Andheri,Auto,10646,2,246,32,Medium
+2025-06-09,Mumbai,Dadar,Car,14294,0,188,22,High
+2025-06-15,Mumbai,Lower Parel,Bike,10309,6,293,25,Medium
+2025-07-01,Mumbai,Lower Parel,Bus,11797,4,194,21,High
+2025-07-07,Mumbai,Lower Parel,Truck,10493,5,266,20,Medium
+2025-07-13,Mumbai,Andheri,Bus,6424,4,49,47,Low
+2025-07-17,Mumbai,Bandra,Auto,14522,0,258,60,High
+2025-07-24,Mumbai,Malad,Auto,4249,0,220,29,Low
+2025-07-26,Mumbai,Bandra,Bike,10940,6,216,51,Medium
+2025-08-07,Mumbai,Malad,Bus,10648,6,278,43,Medium
+2025-08-12,Mumbai,Lower Parel,Car,8359,1,280,46,Medium
+2025-08-15,Mumbai,Dadar,Bus,6822,0,232,47,Low
+2025-08-19,Mumbai,Lower Parel,Auto,4337,7,91,32,Low
+2025-08-23,Mumbai,Bandra,Car,12083,2,240,22,High
+2025-08-25,Mumbai,Malad,Truck,9158,1,78,29,Medium
+2025-08-27,Mumbai,Lower Parel,Auto,4690,5,204,40,Low
+2025-09-10,Mumbai,Dadar,Car,13065,3,265,33,High
+2025-09-11,Mumbai,Malad,Bus,7083,4,161,53,Medium
+2025-09-12,Mumbai,Bandra,Bus,8560,0,241,29,Medium
+2025-09-13,Mumbai,Dadar,Auto,5117,0,192,40,Low
+2025-09-17,Mumbai,Lower Parel,Auto,5864,6,244,52,Low
+2025-09-18,Mumbai,Lower Parel,Truck,14561,4,213,30,High
+2025-09-21,Mumbai,Lower Parel,Bike,10882,2,151,58,Medium
+2025-10-07,Mumbai,Andheri,Bus,8361,0,149,25,Medium
+2025-10-17,Mumbai,Malad,Bike,10945,4,299,44,Medium
+2025-10-21,Mumbai,Dadar,Bus,13636,4,228,50,High
+2025-11-01,Mumbai,Dadar,Truck,8543,0,125,39,Medium
+2025-11-04,Mumbai,Malad,Bus,8228,7,271,33,Medium
+2025-11-05,Mumbai,Andheri,Truck,11425,2,233,30,High
+2025-11-07,Mumbai,Lower Parel,Bus,6974,5,270,26,Low
+2025-11-08,Mumbai,Lower Parel,Car,12705,5,279,42,High
+2025-11-13,Mumbai,Dadar,Car,4559,7,65,24,Low
+2025-11-20,Mumbai,Dadar,Auto,4733,4,61,37,Low
+2025-11-21,Mumbai,Andheri,Truck,8418,7,258,31,Medium
+2025-11-24,Mumbai,Dadar,Truck,7779,0,288,31,Medium
+2025-12-01,Mumbai,Andheri,Truck,6714,1,180,55,Low
+2025-12-10,Mumbai,Malad,Auto,10282,3,290,47,Medium
+2025-12-11,Mumbai,Bandra,Bus,11976,6,281,60,High
+2025-12-13,Mumbai,Lower Parel,Truck,11345,8,61,21,High
+2025-12-17,Mumbai,Lower Parel,Auto,9148,1,204,26,Medium
+2025-12-19,Mumbai,Malad,Bus,5785,3,86,35,Low
+2025-12-23,Mumbai,Lower Parel,Bike,8251,8,212,47,Medium
+2025-12-27,Mumbai,Malad,Truck,6317,1,290,60,Low
+2025-12-30,Mumbai,Dadar,Bus,14683,1,287,60,High
+2025-12-31,Mumbai,Dadar,Bike,4312,6,161,31,Low
+2025-01-07,Mumbai,Dadar,Car,8089,1,267,41,Medium
+2025-01-09,Mumbai,Malad,Auto,7485,8,249,47,Medium
+2025-01-13,Mumbai,Andheri,Auto,7818,4,296,49,Medium
+2025-01-17,Mumbai,Malad,Auto,8589,4,241,38,Medium
+2025-01-21,Mumbai,Andheri,Bus,5237,1,154,32,Low
+2025-01-29,Mumbai,Lower Parel,Auto,12744,1,271,54,High
+2025-01-30,Mumbai,Dadar,Bus,4603,7,178,60,Low
+2025-02-08,Mumbai,Lower Parel,Bus,8762,1,79,25,Medium
+2025-02-14,Mumbai,Bandra,Truck,7423,4,220,31,Medium
+2025-02-26,Mumbai,Bandra,Car,7874,4,121,29,Medium
+2025-02-27,Mumbai,Bandra,Bus,4610,7,154,57,Low
+2025-03-03,Mumbai,Malad,Truck,6127,6,146,58,Low
+2025-03-12,Mumbai,Malad,Truck,6550,7,50,53,Low
+2025-03-18,Mumbai,Dadar,Truck,11552,7,295,32,High
+2025-03-19,Mumbai,Bandra,Auto,11460,2,169,56,High
+2025-03-21,Mumbai,Malad,Bus,6731,3,131,49,Low
+2025-03-23,Mumbai,Bandra,Car,12300,5,292,34,High
+2025-03-26,Mumbai,Lower Parel,Auto,7796,8,291,21,Medium
+2025-04-02,Mumbai,Bandra,Bus,9130,5,272,59,Medium
+2025-04-05,Mumbai,Bandra,Truck,11431,4,187,26,High
+2025-04-07,Mumbai,Bandra,Car,10807,5,62,30,Medium
+2025-04-14,Mumbai,Bandra,Bus,11893,4,210,55,High
+2025-04-20,Mumbai,Andheri,Bike,10915,5,123,48,Medium
+2025-05-03,Mumbai,Malad,Bus,14391,5,214,32,High
+2025-05-04,Mumbai,Malad,Bus,9131,4,206,53,Medium
+2025-05-06,Mumbai,Bandra,Truck,9417,0,296,44,Medium
+2025-05-07,Mumbai,Bandra,Truck,6622,0,115,54,Low
+2025-05-20,Mumbai,Malad,Bike,9658,2,262,21,Medium
+2025-05-25,Mumbai,Dadar,Car,8516,3,272,28,Medium
+2025-06-02,Mumbai,Dadar,Car,14348,0,192,57,High
+2025-06-08,Mumbai,Bandra,Truck,12243,6,284,53,High
+2025-06-09,Mumbai,Malad,Car,14448,6,125,53,High
+2025-06-10,Mumbai,Andheri,Bus,8812,0,120,31,Medium
+2025-06-15,Mumbai,Malad,Auto,7674,7,121,31,Medium
+2025-06-17,Mumbai,Malad,Car,13557,5,75,34,High
+2025-06-30,Mumbai,Dadar,Bike,11301,3,128,31,High
+2025-07-04,Mumbai,Bandra,Bus,4042,4,67,30,Low
+2025-07-08,Mumbai,Andheri,Auto,9010,4,275,58,Medium
+2025-07-10,Mumbai,Bandra,Bike,6385,2,146,39,Low
+2025-07-15,Mumbai,Bandra,Bike,6978,6,135,27,Low
+2025-07-16,Mumbai,Andheri,Car,13526,5,232,35,High
+2025-07-24,Mumbai,Malad,Car,8868,7,205,39,Medium
+2025-07-28,Mumbai,Malad,Truck,13101,4,106,37,High
+2025-08-15,Mumbai,Malad,Bike,10053,0,172,46,Medium
+2025-08-19,Mumbai,Bandra,Bike,9932,8,231,46,Medium
+2025-08-24,Mumbai,Andheri,Car,13082,0,198,32,High
+2025-08-26,Mumbai,Dadar,Bike,11370,1,40,27,High
+2025-08-27,Mumbai,Andheri,Car,6819,5,231,26,Low
+2025-08-30,Mumbai,Andheri,Truck,5355,0,115,44,Low
+2025-09-02,Mumbai,Lower Parel,Auto,13768,8,118,39,High
+2025-09-14,Mumbai,Dadar,Auto,8982,4,167,44,Medium
+2025-09-15,Mumbai,Malad,Truck,11681,0,202,30,High
+2025-09-16,Mumbai,Andheri,Auto,11967,5,199,41,High
+2025-09-17,Mumbai,Dadar,Bike,5811,2,141,30,Low
+2025-10-05,Mumbai,Malad,Auto,12874,0,181,55,High
+2025-10-19,Mumbai,Lower Parel,Auto,10109,3,214,46,Medium
+2025-11-04,Mumbai,Dadar,Truck,10047,7,275,54,Medium
+2025-11-05,Mumbai,Bandra,Auto,12343,1,298,41,High
+2025-11-12,Mumbai,Lower Parel,Bike,12605,0,168,42,High
+2025-11-15,Mumbai,Bandra,Car,10303,2,218,44,Medium
+2025-11-29,Mumbai,Bandra,Bus,11633,6,57,30,High
+2025-12-02,Mumbai,Andheri,Car,7925,1,288,59,Medium
+2025-12-03,Mumbai,Lower Parel,Auto,14873,3,283,49,High
+2025-12-08,Mumbai,Andheri,Truck,7683,7,244,42,Medium
+2025-12-12,Mumbai,Bandra,Auto,14134,3,225,39,High
+2025-12-13,Mumbai,Andheri,Auto,10604,2,197,53,Medium
+2025-12-15,Mumbai,Malad,Truck,7494,6,141,42,Medium
+2025-12-16,Mumbai,Dadar,Bike,13603,2,115,43,High
+2025-12-19,Mumbai,Dadar,Bike,12007,4,173,54,High
+2025-12-20,Mumbai,Bandra,Bus,7635,3,278,31,Medium
+2025-12-23,Mumbai,Lower Parel,Bus,12515,1,265,54,High
+2025-12-29,Mumbai,Andheri,Car,11047,1,266,41,High
+2025-12-30,Mumbai,Dadar,Car,12796,6,146,48,High
+2025-01-03,Mumbai,Malad,Bus,13919,3,89,46,High
+2025-01-10,Mumbai,Malad,Bike,11890,5,289,30,High
+2025-01-21,Mumbai,Andheri,Truck,10631,8,145,25,Medium
+2025-01-26,Mumbai,Malad,Bus,12271,0,295,43,High
+2025-01-28,Mumbai,Dadar,Bike,9151,1,176,48,Medium
+2025-02-13,Mumbai,Andheri,Bike,4881,1,42,42,Low
+2025-02-15,Mumbai,Malad,Bike,5101,7,42,59,Low
+2025-02-25,Mumbai,Lower Parel,Auto,12575,8,48,43,High
+2025-02-26,Mumbai,Lower Parel,Auto,4775,4,178,30,Low
+2025-02-27,Mumbai,Bandra,Auto,12537,4,276,24,High
+2025-03-08,Mumbai,Dadar,Auto,7157,1,139,38,Medium
+2025-03-13,Mumbai,Bandra,Truck,11372,2,113,45,High
+2025-03-29,Mumbai,Dadar,Bike,9720,2,57,53,Medium
+2025-04-05,Mumbai,Bandra,Truck,6167,5,143,28,Low
+2025-04-15,Mumbai,Bandra,Bus,7543,8,223,26,Medium

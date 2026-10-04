@@ -1,0 +1,23 @@
+{
+  "name": "mumbai-traffic-pattern-analytics",
+  "version": "1.0.0",
+  "description": "Mumbai Traffic Pattern Analytics using PySpark, MongoDB, Node.js and React",
+  "scripts": {
+    "setup:all": "scripts\\setup.bat",
+    "inspect": "scripts\\inspect_dataset.bat",
+    "pipeline": "scripts\\run_pipeline.bat",
+    "start:backend": "scripts\\start_backend.bat",
+    "start:frontend": "scripts\\start_frontend.bat",
+    "verify": "scripts\\verify.bat"
+  },
+  "keywords": [
+    "pyspark",
+    "mongodb",
+    "big-data",
+    "traffic-analytics",
+    "react",
+    "leaflet"
+  ],
+  "author": "Big Data Analytics Lab",
+  "license": "ISC"
+}

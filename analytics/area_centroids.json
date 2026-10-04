@@ -1,0 +1,115 @@
+{
+  "disclaimer": "Marker positions represent approximate geographic area centroids for metropolitan visualization, not measured GPS points.",
+  "is_approximate": true,
+  "city_centers": {
+    "Mumbai": { "lat": 19.0760, "lng": 72.8777 },
+    "Pune": { "lat": 18.5204, "lng": 73.8567 },
+    "Thane": { "lat": 19.2183, "lng": 72.9781 },
+    "Bengaluru": { "lat": 12.9716, "lng": 77.5946 },
+    "Delhi": { "lat": 28.6139, "lng": 77.2090 }
+  },
+  "centroids": {
+    "Bandra": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "locality": "Bandra, Mumbai",
+      "zone": "Western Suburbs"
+    },
+    "Malad": {
+      "lat": 19.1874,
+      "lng": 72.8484,
+      "locality": "Malad, Mumbai",
+      "zone": "North-Western Suburbs"
+    },
+    "Andheri": {
+      "lat": 19.1136,
+      "lng": 72.8697,
+      "locality": "Andheri, Mumbai",
+      "zone": "Western Suburbs"
+    },
+    "Dadar": {
+      "lat": 19.0178,
+      "lng": 72.8478,
+      "locality": "Dadar, Mumbai",
+      "zone": "South-Central Mumbai"
+    },
+    "Lower Parel": {
+      "lat": 18.9953,
+      "lng": 72.8315,
+      "locality": "Lower Parel, Mumbai",
+      "zone": "South Mumbai Commercial Hub"
+    },
+    "Shivajinagar": {
+      "lat": 18.5314,
+      "lng": 73.8446,
+      "locality": "Shivajinagar, Pune",
+      "zone": "Central Transit Hub"
+    },
+    "Kothrud": {
+      "lat": 18.5074,
+      "lng": 73.8077,
+      "locality": "Kothrud, Pune",
+      "zone": "Western Arterial Corridor"
+    },
+    "Hinjewadi": {
+      "lat": 18.5913,
+      "lng": 73.7389,
+      "locality": "Hinjewadi, Pune",
+      "zone": "IT Park & Tech Corridor"
+    },
+    "Viman Nagar": {
+      "lat": 18.5679,
+      "lng": 73.9143,
+      "locality": "Viman Nagar, Pune",
+      "zone": "Eastern Suburbs & Airport"
+    },
+    "Hadapsar": {
+      "lat": 18.5089,
+      "lng": 73.9259,
+      "locality": "Hadapsar, Pune",
+      "zone": "South-Eastern Industrial Corridor"
+    },
+    "Baner": {
+      "lat": 18.5590,
+      "lng": 73.7868,
+      "locality": "Baner, Pune",
+      "zone": "North-Western Express Corridor"
+    },
+    "Swargate": {
+      "lat": 18.5018,
+      "lng": 73.8636,
+      "locality": "Swargate, Pune",
+      "zone": "Southern Transport Junction"
+    },
+    "Naupada": {
+      "lat": 19.1860,
+      "lng": 72.9734,
+      "locality": "Naupada, Thane",
+      "zone": "Central Thane"
+    },
+    "Ghodbunder": {
+      "lat": 19.2684,
+      "lng": 72.9668,
+      "locality": "Ghodbunder Road, Thane",
+      "zone": "Highway Artery"
+    },
+    "Majiwada": {
+      "lat": 19.2148,
+      "lng": 72.9866,
+      "locality": "Majiwada, Thane",
+      "zone": "Junction Hub"
+    },
+    "Vartak Nagar": {
+      "lat": 19.2084,
+      "lng": 72.9567,
+      "locality": "Vartak Nagar, Thane",
+      "zone": "Residential District"
+    },
+    "Wagle Estate": {
+      "lat": 19.1923,
+      "lng": 72.9469,
+      "locality": "Wagle Estate, Thane",
+      "zone": "Commercial & Industrial Zone"
+    }
+  }
+}

@@ -1,0 +1,243 @@
+Date,City,Area,Vehicle_Type,Vehicle_Count,Accidents,Traffic_Violations,Avg_Speed_kmph,Congestion_Level
+2025-01-02,Thane,Manpada,Truck,6708,6,228,31,Low
+2025-01-04,Thane,Kasarvadavali,Bus,5062,1,245,44,Low
+2025-01-11,Thane,Ghodbunder,Auto,6570,1,286,48,Low
+2025-01-14,Thane,Kasarvadavali,Auto,10945,4,145,46,Medium
+2025-01-24,Thane,Ghodbunder,Bike,11915,6,139,53,High
+2025-01-26,Thane,Kasarvadavali,Car,10326,2,207,46,Medium
+2025-02-01,Thane,Majiwada,Truck,8519,4,139,31,Medium
+2025-02-03,Thane,Majiwada,Auto,9473,6,291,50,Medium
+2025-02-13,Thane,Manpada,Bus,7187,4,115,58,Medium
+2025-02-14,Thane,Kasarvadavali,Bus,10081,0,133,31,Medium
+2025-02-15,Thane,Ghodbunder,Bike,14611,3,107,49,High
+2025-02-21,Thane,Kasarvadavali,Auto,11927,2,155,39,High
+2025-02-23,Thane,Majiwada,Car,10890,8,121,25,Medium
+2025-02-24,Thane,Manpada,Truck,9667,3,123,48,Medium
+2025-03-08,Thane,Kasarvadavali,Bike,7156,7,105,57,Medium
+2025-03-14,Thane,Kasarvadavali,Auto,14558,5,216,49,High
+2025-03-16,Thane,Wagle Estate,Bike,9965,7,51,36,Medium
+2025-03-26,Thane,Ghodbunder,Bike,6936,5,127,48,Low
+2025-03-27,Thane,Ghodbunder,Bus,9771,7,209,38,Medium
+2025-03-29,Thane,Wagle Estate,Truck,6791,4,158,20,Low
+2025-04-06,Thane,Manpada,Car,7371,6,271,54,Medium
+2025-04-07,Thane,Manpada,Auto,4778,8,201,43,Low
+2025-04-15,Thane,Wagle Estate,Truck,14410,6,227,24,High
+2025-04-17,Thane,Wagle Estate,Car,6902,6,258,43,Low
+2025-04-21,Thane,Kasarvadavali,Bus,6845,7,52,46,Low
+2025-04-26,Thane,Ghodbunder,Auto,4795,4,217,55,Low
+2025-04-29,Thane,Manpada,Auto,11825,2,154,58,High
+2025-05-03,Thane,Manpada,Bike,8469,1,154,44,Medium
+2025-05-07,Thane,Kasarvadavali,Bus,5041,7,85,52,Low
+2025-05-10,Thane,Kasarvadavali,Truck,7276,8,223,30,Medium
+2025-05-12,Thane,Ghodbunder,Bike,10048,2,281,45,Medium
+2025-05-14,Thane,Wagle Estate,Truck,5599,0,262,49,Low
+2025-05-26,Thane,Manpada,Auto,13647,5,228,38,High
+2025-05-27,Thane,Manpada,Bus,13515,1,231,35,High
+2025-06-16,Thane,Manpada,Truck,10086,8,235,29,Medium
+2025-06-20,Thane,Wagle Estate,Auto,4680,6,194,58,Low
+2025-06-21,Thane,Ghodbunder,Bike,13369,8,121,43,High
+2025-06-22,Thane,Kasarvadavali,Car,10410,7,200,32,Medium
+2025-06-24,Thane,Wagle Estate,Bike,4558,6,138,36,Low
+2025-07-09,Thane,Manpada,Bike,5837,1,50,31,Low
+2025-07-10,Thane,Majiwada,Bus,14177,5,240,56,High
+2025-07-18,Thane,Manpada,Bus,8407,5,258,56,Medium
+2025-07-21,Thane,Kasarvadavali,Car,10437,7,211,57,Medium
+2025-07-24,Thane,Majiwada,Truck,8546,2,250,27,Medium
+2025-07-26,Thane,Ghodbunder,Auto,5040,0,175,26,Low
+2025-07-27,Thane,Ghodbunder,Auto,6915,7,119,51,Low
+2025-07-28,Thane,Kasarvadavali,Car,4085,3,294,30,Low
+2025-07-29,Thane,Kasarvadavali,Bike,5643,7,97,40,Low
+2025-08-15,Thane,Wagle Estate,Bus,11471,1,120,38,High
+2025-08-17,Thane,Manpada,Truck,7254,0,75,39,Medium
+2025-09-01,Thane,Majiwada,Truck,9096,8,95,45,Medium
+2025-09-11,Thane,Wagle Estate,Auto,10812,2,129,23,Medium
+2025-09-12,Thane,Kasarvadavali,Bike,11769,2,47,38,High
+2025-09-13,Thane,Ghodbunder,Car,12051,7,82,37,High
+2025-09-18,Thane,Kasarvadavali,Car,8787,6,40,38,Medium
+2025-09-24,Thane,Ghodbunder,Bike,12958,3,238,28,High
+2025-09-25,Thane,Majiwada,Bike,8194,2,128,53,Medium
+2025-09-29,Thane,Majiwada,Truck,8586,5,40,25,Medium
+2025-10-01,Thane,Majiwada,Bike,6791,8,64,50,Low
+2025-10-04,Thane,Majiwada,Bus,10983,7,113,53,Medium
+2025-10-07,Thane,Manpada,Bike,7684,4,195,35,Medium
+2025-10-08,Thane,Majiwada,Bike,6775,1,300,37,Low
+2025-10-13,Thane,Majiwada,Bike,11932,2,245,53,High
+2025-10-20,Thane,Manpada,Bike,6598,8,275,47,Low
+2025-10-23,Thane,Ghodbunder,Bus,4008,5,190,33,Low
+2025-10-25,Thane,Kasarvadavali,Bike,6112,5,279,23,Low
+2025-10-26,Thane,Ghodbunder,Auto,11142,7,242,46,High
+2025-10-30,Thane,Ghodbunder,Auto,11120,6,176,52,High
+2025-11-04,Thane,Kasarvadavali,Car,7011,2,143,56,Medium
+2025-11-05,Thane,Manpada,Truck,9596,4,189,39,Medium
+2025-11-10,Thane,Wagle Estate,Bike,5556,0,262,35,Low
+2025-11-13,Thane,Kasarvadavali,Truck,6536,2,283,25,Low
+2025-11-22,Thane,Majiwada,Bike,9939,5,113,42,Medium
+2025-11-26,Thane,Wagle Estate,Bike,13794,3,108,35,High
+2025-12-05,Thane,Ghodbunder,Car,6582,0,136,29,Low
+2025-12-15,Thane,Kasarvadavali,Bus,14569,7,179,28,High
+2025-12-16,Thane,Wagle Estate,Bike,7865,3,48,24,Medium
+2025-12-19,Thane,Majiwada,Auto,11597,2,154,51,High
+2025-12-20,Thane,Manpada,Bus,9021,2,236,28,Medium
+2025-12-26,Thane,Wagle Estate,Auto,8628,3,45,34,Medium
+2025-12-28,Thane,Manpada,Truck,6022,4,298,51,Low
+2025-12-30,Thane,Majiwada,Auto,8057,6,144,34,Medium
+2025-01-07,Thane,Ghodbunder,Bike,9112,7,97,30,Medium
+2025-01-12,Thane,Ghodbunder,Bus,8310,7,61,54,Medium
+2025-01-22,Thane,Ghodbunder,Auto,7465,2,240,34,Medium
+2025-01-23,Thane,Majiwada,Bike,7211,6,75,47,Medium
+2025-01-28,Thane,Kasarvadavali,Car,9260,6,203,44,Medium
+2025-01-30,Thane,Kasarvadavali,Truck,4777,4,264,42,Low
+2025-01-31,Thane,Ghodbunder,Auto,10571,6,229,30,Medium
+2025-02-10,Thane,Manpada,Car,10297,7,181,51,Medium
+2025-02-14,Thane,Wagle Estate,Truck,10115,6,73,25,Medium
+2025-02-21,Thane,Wagle Estate,Car,9073,2,82,59,Medium
+2025-02-23,Thane,Manpada,Auto,9013,5,200,39,Medium
+2025-02-27,Thane,Kasarvadavali,Truck,11999,8,92,47,High
+2025-03-04,Thane,Majiwada,Car,5527,2,136,55,Low
+2025-03-05,Thane,Majiwada,Auto,11481,8,141,55,High
+2025-03-07,Thane,Manpada,Bus,10852,6,104,20,Medium
+2025-03-21,Thane,Manpada,Truck,13968,6,91,60,High
+2025-04-12,Thane,Wagle Estate,Auto,10703,2,40,48,Medium
+2025-04-17,Thane,Majiwada,Bike,8786,2,203,40,Medium
+2025-05-01,Thane,Manpada,Bike,12975,4,211,47,High
+2025-05-08,Thane,Wagle Estate,Bike,7477,2,280,41,Medium
+2025-05-13,Thane,Kasarvadavali,Bike,8516,8,216,26,Medium
+2025-05-16,Thane,Ghodbunder,Bike,8543,0,106,50,Medium
+2025-05-27,Thane,Manpada,Truck,7633,0,148,27,Medium
+2025-06-02,Thane,Ghodbunder,Car,5901,1,50,58,Low
+2025-06-12,Thane,Wagle Estate,Car,10506,6,112,38,Medium
+2025-06-17,Thane,Kasarvadavali,Auto,12583,7,157,38,High
+2025-06-21,Thane,Manpada,Auto,8965,8,72,25,Medium
+2025-06-23,Thane,Kasarvadavali,Bike,6789,3,210,55,Low
+2025-06-26,Thane,Wagle Estate,Truck,10902,0,145,39,Medium
+2025-06-30,Thane,Majiwada,Bike,5241,2,208,39,Low
+2025-07-06,Thane,Ghodbunder,Auto,9199,3,239,46,Medium
+2025-07-14,Thane,Kasarvadavali,Truck,10215,7,220,35,Medium
+2025-07-18,Thane,Kasarvadavali,Auto,14433,6,229,57,High
+2025-07-22,Thane,Kasarvadavali,Car,4686,1,64,46,Low
+2025-07-25,Thane,Wagle Estate,Bus,14764,2,81,24,High
+2025-07-27,Thane,Manpada,Truck,8682,1,206,48,Medium
+2025-08-02,Thane,Ghodbunder,Auto,12264,4,82,21,High
+2025-08-14,Thane,Majiwada,Car,14593,1,197,58,High
+2025-08-26,Thane,Ghodbunder,Bike,14978,2,172,43,High
+2025-08-31,Thane,Majiwada,Car,11714,4,109,30,High
+2025-09-01,Thane,Kasarvadavali,Bike,10545,0,180,47,Medium
+2025-09-24,Thane,Kasarvadavali,Truck,13776,5,174,57,High
+2025-09-27,Thane,Manpada,Bus,4417,3,274,29,Low
+2025-10-03,Thane,Manpada,Bus,14139,2,78,37,High
+2025-10-06,Thane,Kasarvadavali,Bike,10467,1,88,21,Medium
+2025-10-12,Thane,Majiwada,Car,13080,7,267,55,High
+2025-10-19,Thane,Ghodbunder,Truck,6324,7,270,40,Low
+2025-10-20,Thane,Wagle Estate,Car,4327,1,139,34,Low
+2025-10-26,Thane,Ghodbunder,Truck,7280,4,290,45,Medium
+2025-11-02,Thane,Manpada,Car,9646,6,128,32,Medium
+2025-11-06,Thane,Manpada,Car,4753,6,58,27,Low
+2025-11-15,Thane,Majiwada,Auto,4436,3,160,35,Low
+2025-11-16,Thane,Manpada,Bike,11306,7,80,55,High
+2025-11-27,Thane,Ghodbunder,Bus,12260,8,101,32,High
+2025-11-28,Thane,Kasarvadavali,Bus,10759,7,213,21,Medium
+2025-12-07,Thane,Kasarvadavali,Truck,14937,5,140,60,High
+2025-12-15,Thane,Majiwada,Bike,11662,7,263,44,High
+2025-12-21,Thane,Manpada,Bike,5452,4,292,23,Low
+2025-12-22,Thane,Manpada,Bike,5685,8,95,56,Low
+2025-12-28,Thane,Kasarvadavali,Bus,12562,5,98,25,High
+2025-01-12,Thane,Ghodbunder,Bus,7983,8,123,58,Medium
+2025-01-15,Thane,Majiwada,Car,13086,8,101,24,High
+2025-01-19,Thane,Kasarvadavali,Auto,13557,7,255,24,High
+2025-01-20,Thane,Majiwada,Car,10593,4,247,45,Medium
+2025-01-31,Thane,Kasarvadavali,Car,5112,3,259,56,Low
+2025-02-05,Thane,Kasarvadavali,Bike,13666,2,267,46,High
+2025-02-13,Thane,Ghodbunder,Car,11696,1,262,47,High
+2025-02-23,Thane,Ghodbunder,Truck,4672,7,202,20,Low
+2025-03-06,Thane,Kasarvadavali,Truck,14155,3,104,22,High
+2025-03-07,Thane,Majiwada,Bike,6359,1,100,37,Low
+2025-03-08,Thane,Wagle Estate,Car,8962,8,275,57,Medium
+2025-03-09,Thane,Majiwada,Truck,6108,7,206,21,Low
+2025-03-22,Thane,Majiwada,Truck,14630,6,233,45,High
+2025-03-24,Thane,Ghodbunder,Bike,6318,3,103,31,Low
+2025-03-29,Thane,Majiwada,Auto,4742,0,180,60,Low
+2025-03-31,Thane,Kasarvadavali,Truck,10006,7,130,23,Medium
+2025-04-22,Thane,Manpada,Bike,9505,2,247,20,Medium
+2025-04-26,Thane,Majiwada,Car,4861,1,209,20,Low
+2025-04-27,Thane,Manpada,Auto,12846,2,198,48,High
+2025-04-30,Thane,Wagle Estate,Bus,13689,2,62,39,High
+2025-05-08,Thane,Kasarvadavali,Bike,12790,2,53,48,High
+2025-05-12,Thane,Majiwada,Bus,9467,3,167,55,Medium
+2025-05-13,Thane,Wagle Estate,Truck,13275,0,295,56,High
+2025-05-14,Thane,Ghodbunder,Bike,11358,5,287,51,High
+2025-05-16,Thane,Ghodbunder,Car,7931,5,204,55,Medium
+2025-05-17,Thane,Wagle Estate,Truck,13568,2,235,30,High
+2025-05-18,Thane,Manpada,Car,5799,2,274,28,Low
+2025-05-19,Thane,Manpada,Bus,12430,7,189,53,High
+2025-05-22,Thane,Manpada,Bus,10378,2,160,25,Medium
+2025-05-24,Thane,Manpada,Bike,8136,6,118,39,Medium
+2025-05-31,Thane,Wagle Estate,Bike,4615,1,115,55,Low
+2025-06-01,Thane,Majiwada,Car,7102,0,289,38,Medium
+2025-06-04,Thane,Ghodbunder,Truck,12917,2,79,26,High
+2025-06-11,Thane,Manpada,Bus,14839,5,173,49,High
+2025-06-14,Thane,Wagle Estate,Bus,13014,6,124,45,High
+2025-06-20,Thane,Wagle Estate,Car,9506,0,201,24,Medium
+2025-06-24,Thane,Kasarvadavali,Truck,5539,8,248,29,Low
+2025-06-25,Thane,Manpada,Bus,6631,7,48,38,Low
+2025-07-01,Thane,Kasarvadavali,Bike,10612,5,255,32,Medium
+2025-07-09,Thane,Manpada,Truck,8715,6,111,50,Medium
+2025-07-13,Thane,Wagle Estate,Truck,8425,1,189,31,Medium
+2025-07-17,Thane,Manpada,Auto,10517,1,80,34,Medium
+2025-07-18,Thane,Ghodbunder,Car,13685,5,297,58,High
+2025-07-20,Thane,Wagle Estate,Bus,8128,5,289,26,Medium
+2025-07-22,Thane,Kasarvadavali,Bus,12399,1,262,58,High
+2025-08-07,Thane,Manpada,Auto,10999,2,219,48,Medium
+2025-08-09,Thane,Ghodbunder,Auto,12394,7,248,54,High
+2025-08-11,Thane,Kasarvadavali,Car,10868,0,116,35,Medium
+2025-08-12,Thane,Ghodbunder,Bus,12360,8,285,41,High
+2025-08-13,Thane,Wagle Estate,Bike,12330,7,268,40,High
+2025-08-21,Thane,Ghodbunder,Car,5000,7,297,20,Low
+2025-08-22,Thane,Ghodbunder,Truck,11371,6,132,38,High
+2025-08-25,Thane,Wagle Estate,Car,10520,6,65,29,Medium
+2025-08-28,Thane,Manpada,Bus,12751,4,136,32,High
+2025-09-09,Thane,Majiwada,Car,6143,6,197,31,Low
+2025-09-18,Thane,Manpada,Auto,9208,3,106,53,Medium
+2025-09-21,Thane,Kasarvadavali,Truck,11885,8,215,58,High
+2025-09-24,Thane,Kasarvadavali,Auto,13938,2,150,27,High
+2025-09-25,Thane,Wagle Estate,Truck,13832,1,87,41,High
+2025-09-29,Thane,Ghodbunder,Truck,11906,4,128,39,High
+2025-10-03,Thane,Majiwada,Bus,10651,0,90,54,Medium
+2025-10-06,Thane,Majiwada,Auto,7136,7,237,41,Medium
+2025-10-11,Thane,Kasarvadavali,Bike,14517,0,297,42,High
+2025-10-14,Thane,Wagle Estate,Truck,13049,6,196,38,High
+2025-10-25,Thane,Wagle Estate,Car,9298,5,182,31,Medium
+2025-10-26,Thane,Manpada,Auto,4874,2,58,32,Low
+2025-10-29,Thane,Majiwada,Truck,11886,5,68,36,High
+2025-11-01,Thane,Manpada,Truck,4847,8,134,52,Low
+2025-11-13,Thane,Kasarvadavali,Auto,11426,7,88,39,High
+2025-11-14,Thane,Manpada,Truck,10611,6,207,42,Medium
+2025-11-17,Thane,Wagle Estate,Auto,14128,7,200,34,High
+2025-11-23,Thane,Wagle Estate,Bike,14835,6,296,29,High
+2025-11-24,Thane,Wagle Estate,Auto,14291,7,153,25,High
+2025-12-01,Thane,Wagle Estate,Bike,10999,5,162,31,Medium
+2025-12-07,Thane,Ghodbunder,Bike,12101,7,208,43,High
+2025-12-10,Thane,Manpada,Car,14912,4,63,34,High
+2025-01-01,Thane,Manpada,Truck,9849,5,109,44,Medium
+2025-01-08,Thane,Ghodbunder,Bus,12905,2,231,56,High
+2025-01-14,Thane,Manpada,Auto,14944,3,122,60,High
+2025-01-27,Thane,Wagle Estate,Bike,10706,1,58,46,Medium
+2025-01-30,Thane,Ghodbunder,Car,13809,8,229,55,High
+2025-01-31,Thane,Ghodbunder,Car,5063,0,81,31,Low
+2025-02-01,Thane,Kasarvadavali,Truck,9669,2,196,27,Medium
+2025-02-06,Thane,Ghodbunder,Car,11052,5,222,55,High
+2025-02-07,Thane,Wagle Estate,Car,10890,1,54,40,Medium
+2025-02-12,Thane,Manpada,Auto,6027,6,71,52,Low
+2025-02-16,Thane,Kasarvadavali,Bus,11411,7,41,42,High
+2025-02-22,Thane,Kasarvadavali,Bike,6469,2,90,31,Low
+2025-03-09,Thane,Kasarvadavali,Bus,5114,7,52,25,Low
+2025-03-10,Thane,Manpada,Bus,10455,5,54,55,Medium
+2025-03-12,Thane,Ghodbunder,Auto,13822,6,242,34,High
+2025-03-14,Thane,Ghodbunder,Car,5000,4,208,20,Low
+2025-03-19,Thane,Wagle Estate,Car,8075,3,241,46,Medium
+2025-03-20,Thane,Wagle Estate,Truck,13036,6,291,47,High
+2025-03-24,Thane,Ghodbunder,Bus,14089,3,285,24,High
+2025-03-27,Thane,Majiwada,Bike,9988,0,182,56,Medium
+2025-04-04,Thane,Ghodbunder,Bike,10166,5,110,59,Medium
+2025-04-06,Thane,Kasarvadavali,Auto,14591,0,110,28,High
+2025-04-08,Thane,Wagle Estate,Truck,12940,4,85,34,High
+2025-04-12,Thane,Manpada,Truck,14648,8,184,43,High
